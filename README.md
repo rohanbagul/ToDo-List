@@ -1,4 +1,4 @@
-# working model: https://rohanbagul.github.io/
+# working model: https://rb-todolist.netlify.app/
 
 
 # Getting Started with Create React App
